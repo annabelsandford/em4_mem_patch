@@ -26,9 +26,9 @@ Be aware that the EM4 Mem Patcher automatically creates a backup of your Emergen
 
 ## Troubleshooting
 
-- **The game crashes**: Check both em4.exe and Em4Deluxe.exe, as both are modified by the tool. Try starting the game with both executables. If that doesn't work, start the game with both as administrator and enable Windows XP SP3 compatibility mode. If it still doesn't work, please contact the developer for further assistance.
+- **The game crashes**: Check both `em4.exe` and `Em4Deluxe.exe`, as both are modified by the tool. Try starting the game with both executables. If that doesn't work, start the game with both as administrator and enable Windows XP SP3 compatibility mode. If it still doesn't work, please [contact me here for more assistance](https://github.com/annabelsandford/).
 
-- **"LC_API.dll is missing" error**: This error means that the game cannot access the DLL. The DLL file should be located in the base folder of the game. If it's already there and you still get the error, try starting the game as an administrator. If the DLL is not present, you can download it from here and place it in the base folder of the game.
+- **"LC_API.dll is missing" error**: This error means that the game cannot access the DLL. The DLL file should be located in the base folder of the game. If it's already there and you still get the error, try starting the game as an administrator. If the DLL is not present, you can [>download it from here<](https://github.com/annabelsandford/em4_mem_patch/raw/main/LC_API.dll) and place it in the base folder of the game.
 
 ## Contributing
 
