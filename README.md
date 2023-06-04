@@ -32,9 +32,9 @@ Be aware that the EM4 Mem Patcher automatically creates a backup of your Emergen
 
 Below, you will find a compilation of DLL files that may be missing following the utilization of the EM4 Memory Patcher. It is advised to locate the base directory of your EM4 game and carefully insert these DLL files therein.
 
-[> LC_API.dll](https://github.com/annabelsandford/em4_mem_patch/raw/main/LC_API.dll)
-[> Foundation.dll](https://github.com/annabelsandford/em4_mem_patch/raw/main/Foundation.dll)
-[> HAPI.win32.dll](https://github.com/annabelsandford/em4_mem_patch/raw/main/HAPI.win32.dll)
+[[ LC_API.dll]](https://github.com/annabelsandford/em4_mem_patch/raw/main/LC_API.dll)
+ [[ Foundation.dll]](https://github.com/annabelsandford/em4_mem_patch/raw/main/Foundation.dll)
+ [[ HAPI.win32.dll]](https://github.com/annabelsandford/em4_mem_patch/raw/main/HAPI.win32.dll)
 
 ## Contributing
 
