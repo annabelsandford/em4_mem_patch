@@ -17,7 +17,7 @@ The EM4 Mem Patcher is a tool specifically developed to tackle memory-related is
 1. Download the latest release of EM4 Mem Patcher from the [Releases](https://github.com/annabelsandford/em4_mem_patch/releases) page.
 2. Extract the downloaded archive to a convenient location on your System. (em4_mem_patch.exe and package.va)
 3. Launch the EM4 Mem Patcher executable.
-4. Select your Emergency 4 executable file (e.g., `em4.exe`).
+4. Select your Emergency 4 executable file (e.g., `em4.exe` or `Em4Deluxe.exe`).
 6. Click the "OK" button to apply the modifications.
 7. Launch Emergency 4 and enjoy a more stable and enjoyable gameplay experience.
 
