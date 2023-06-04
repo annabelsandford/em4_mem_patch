@@ -24,6 +24,12 @@ The EM4 Mem Patcher is a tool specifically developed to tackle memory-related is
 Be aware that the EM4 Mem Patcher automatically creates a backup of your Emergency 4 executable file within the same folder, named "ba4".
 **However**, it is strongly advised that users independently create their own backups of the em4.exe as well. This ensures that you have an additional safeguard and a secure restore point in the event of any unexpected issues that may arise during the patching process.
 
+## Troubleshooting
+
+- **The game crashes**: Check both em4.exe and Em4Deluxe.exe, as both are modified by the tool. Try starting the game with both executables. If that doesn't work, start the game with both as administrator and enable Windows XP SP3 compatibility mode. If it still doesn't work, please contact the developer for further assistance.
+
+- **"LC_API.dll is missing" error**: This error means that the game cannot access the DLL. The DLL file should be located in the base folder of the game. If it's already there and you still get the error, try starting the game as an administrator. If the DLL is not present, you can download it from here and place it in the base folder of the game.
+
 ## Contributing
 
 Contributions to EM4 Mem Patcher are welcome! If you encounter any bugs, have suggestions, or would like to contribute to the project, please open an issue or submit a pull request. For major changes, it is recommended to discuss them first in an issue to ensure they align with the project's goals.
