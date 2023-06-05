@@ -26,6 +26,8 @@ Be aware that the EM4 Mem Patcher automatically creates a backup of your Emergen
 
 ## Troubleshooting
 
+- **The EM4 Memory Patcher is not compatible with 911 First Responders!**
+
 - **The game crashes**: Check both `em4.exe` and `Em4Deluxe.exe`, as both are modified by the tool. Try starting the game with both executables. If that doesn't work, start the game with both as administrator and enable Windows XP SP3 compatibility mode. If it still doesn't work, please [contact me here for more assistance](https://github.com/annabelsandford/).
 
 - **"XXXXX.dll is missing" error**: This error means that the game cannot access a Library needed to start the game.
