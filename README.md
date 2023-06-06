@@ -24,9 +24,22 @@ The EM4 Mem Patcher is a tool specifically developed to tackle memory-related is
 Be aware that the EM4 Mem Patcher automatically creates a backup of your Emergency 4 executable file within the same folder, named "ba4".
 **However**, it is strongly advised that users independently create their own backups of the em4.exe as well. This ensures that you have an additional safeguard and a secure restore point in the event of any unexpected issues that may arise during the patching process.
 
-## Troubleshooting
+## Compatibility
+The following versions of EM4 are currently supported:
 
-- **The EM4 Memory Patcher is not compatible with 911 First Responders or the "Gold-Edition" of Emergency 4**
+ - [x] Emergency 4: Deluxe (Steam)
+ - [x] Emergency 4: Deluxe (CD)
+ - [x] Emergency 4 (CD)
+ - [x] 911 First Responders (CD)
+
+Currently NOT supported:
+
+ - [ ] Emergency 4: Gold Edition
+ - [ ] 911 First Responders (Steam)
+ 
+ If you are running a version that is not currently supported, please contact me. I need your assistance to analyze and patch the individual binaries.
+
+## Troubleshooting
 
 - **The game crashes**: Check both `em4.exe` and `Em4Deluxe.exe`, as both are modified by the tool. Try starting the game with both executables. If that doesn't work, start the game with both as administrator and enable Windows XP SP3 compatibility mode. If it still doesn't work, please [contact me here for more assistance](https://github.com/annabelsandford/).
 
