@@ -4,6 +4,10 @@
 
 The EM4 Mem Patcher is a tool specifically developed to tackle memory-related issues and crashes that players may encounter while playing Emergency 4. By expanding the memory capacity of your Emergency 4 executable, this patcher enables the game to handle larger amounts of data. This enhancement significantly reduces crashes caused by memory limitations, resulting in a more stable gaming environment and an improved gameplay experience.
 
+## Troubleshooting
+- **"XXXXX.dll is missing" error**: This error means that the game cannot access a Library needed to start the game. This usually means that your particular Version of EM4 is not supported. Do not open an issue, you are simply not compatible. I cannot help you.
+- **The game crashes**: Check both `em4.exe` and `Em4Deluxe.exe`, as both are modified by the tool. Try starting the game with both executables. If that doesn't work, start the game with both as administrator and enable Windows XP SP3 compatibility mode. If it still doesn't work, please [contact me here for more assistance](https://github.com/annabelsandford/).
+
 ## Key Features
 
 - **Enhanced Memory Support**: The EM4 Memory Patcher significantly expands the memory capacity of your Emergency 4 executable, enabling the game to efficiently handle larger amounts of data. By doing so, it effectively reduces crashes resulting from memory limitations, resulting in a more stable and enjoyable gaming environment.
@@ -38,12 +42,6 @@ Currently NOT supported:
  - [ ] 911 First Responders (Steam)
  
  If you are running a version that is not currently supported, please contact me. I need your assistance to analyze and patch the individual binaries.
-
-## Troubleshooting
-
-- **The game crashes**: Check both `em4.exe` and `Em4Deluxe.exe`, as both are modified by the tool. Try starting the game with both executables. If that doesn't work, start the game with both as administrator and enable Windows XP SP3 compatibility mode. If it still doesn't work, please [contact me here for more assistance](https://github.com/annabelsandford/).
-
-- **"XXXXX.dll is missing" error**: This error means that the game cannot access a Library needed to start the game. This usually means that your particular Version of EM4 is not supported.
 
 ## Contributing
 
