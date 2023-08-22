@@ -6,7 +6,10 @@ The EM4 Mem Patcher is a tool specifically developed to tackle memory-related is
 
 ## Troubleshooting
 - **"XXXXX.dll is missing" error**: This error means that the game cannot access a Library needed to start the game. This usually means that your particular Version of EM4 is not supported. Do not open an issue, you are simply not compatible. I cannot help you.
-- **The game crashes**: Check both `em4.exe` and `Em4Deluxe.exe`, as both are modified by the tool. Try starting the game with both executables. If that doesn't work, start the game with both as administrator and enable Windows XP SP3 compatibility mode. If it still doesn't work, please [contact me here for more assistance](https://github.com/annabelsandford/).
+- **The game crashes**: Check both `em4.exe` and `Em4Deluxe.exe`, as both are modified by the tool. Try starting the game with both executables. If you do not have two executables, that's okay and to be expected as well depending on your setup. Start the game as administrator and enable Windows XP SP3 compatibility mode. If it still doesn't help, please [contact me here for more assistance](https://github.com/annabelsandford/). There is a chance your specific setup does not support the changes made to the executables.
+- **The EM4P.exe doesn't start**: You need the .NET Framework to run EM4 Mem Patcher. Please make sure that's installed.
+- **The EM4P.exe crashes**: If .NET Framework is installed and the EM4P.exe starts (but then crashes), please make sure to run EM4P.exe as an administrator. If that doesn't help, make sure you're on Windows 7 or newer. Windows XP / Vista aren't necessarily supported (untested). If all of that doesn't help, check if you're on a 64 Bit System. Most people do not realize that this tool won't start (or even help you if you manage to run it) when run on a 32 Bit System.
+- **The patching process fails**: Check the Console within the EM4 Mem Patcher (bottom right). Usually that should give you a clear error and help you figuring out what the problem is. Most of the time that problem is a read/write issue, means the directory where your EM4.exe, or the EM4.exe itself, is write-locked and cannot be edited. Usually, running the EM4P.exe as an administrator should help. If not, you need to figure out your Windows User settings and make sure you have the rights to run a tool like this.
 
 ## Key Features
 
@@ -19,29 +22,18 @@ The EM4 Mem Patcher is a tool specifically developed to tackle memory-related is
 ## Usage
 
 1. Download the latest release of EM4 Mem Patcher from the [Releases](https://github.com/annabelsandford/em4_mem_patch/releases) page.
-2. Extract the downloaded archive to a convenient location on your System. (em4_mem_patch.exe and package.va)
-3. Launch the EM4 Mem Patcher executable.
-4. Select your Emergency 4 executable file (e.g., `em4.exe` or `Em4Deluxe.exe`).
+2. Extract the downloaded archive to a convenient location on your System. (EM4P.exe & readme.txt)
+3. Launch the EM4 Mem Patcher executable (EM4P.exe)
+4. IF STEAM: The EM4 Mem Patcher should automatically patch your correct executable.
+5. IF NOT AUTOMATIC: Select your Emergency 4 executable file (e.g., `em4.exe` or `Em4Deluxe.exe`)
 6. Click the "OK" button to apply the modifications.
 7. Launch Emergency 4 and enjoy a more stable and enjoyable gameplay experience.
 
 Be aware that the EM4 Mem Patcher automatically creates a backup of your Emergency 4 executable file within the same folder, named "ba4".
-**However**, it is strongly advised that users independently create their own backups of the em4.exe as well. This ensures that you have an additional safeguard and a secure restore point in the event of any unexpected issues that may arise during the patching process.
+**It is strongly advised that users independently create their own backups of their em4.exe**. This ensures that you have an additional safeguard and a secure restore point in the event of any unexpected issues that may arise during the patching process.
 
 ## Compatibility
-The following versions of EM4 are currently supported:
-
- - [x] Emergency 4: Deluxe (Steam)
- - [x] Emergency 4: Deluxe (CD)
- - [x] Emergency 4 (CD)
- - [x] 911 First Responders (CD)
-
-Currently NOT supported:
-
- - [ ] Emergency 4: Gold Edition
- - [ ] 911 First Responders (Steam)
- 
- If you are running a version that is not currently supported, please contact me. I need your assistance to analyze and patch the individual binaries.
+- All versions of EM4 / 911:FR are 100% compatible. Thanks to all contributors!
 
 ## Contributing
 
