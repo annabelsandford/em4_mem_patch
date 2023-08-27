@@ -1,0 +1,45 @@
+In this little guide, I'll explain how to use my memory patch to prevent crashes in Emergency 4. Whether you have the Steam version, the good old CD version, or 911: First Responders – this patch works with all of them.
+
+Step 1: Let's get started!
+First things first: Grab the file you need:
+https://github.com/annabelsandford/em4_mem_patch/releases/tag/v2.2.0
+
+Extract the stuff from the ZIP file into a folder.
+🟥 Important: Unpack it, don't just run it, folks! 🟥
+
+Step 2: Patch time
+In the unpacked mess, look for "EM4P.exe". Just click on it and off you go.
+To avoid errors, right-click on it and select "Run as administrator".
+
+A window will pop up showing you a few options.
+
+Step 2.5: Language stuff
+If English isn't your thing, click on the flag in the top right. There you can switch the whole thing to either German or English. (Personally, I prefer English. Not sure about you tho)
+
+Step 3: Choose Emergency 4 Exe
+Click on "Patch or Repair (*.EXE)", locate the Emergency 4 exe file, and confirm it. Make sure to select the exe file in the Emergency 4 installation path, not the ModInstaller.
+
+Step 4: Steam "Yes" or Steam "No"
+Steam or no Steam? If it's Steam, then "Yes". If you got your game through other means, then "No, it's a Non-Steam Version".
+
+Step 5: Which version of the game?
+Choose whether you have "Emergency 4" or "911: First Responders".
+
+Step 6: Make a backup (Smart move in my professional opinion lol)
+Seriously, it's best to create a backup of your game files before you apply the patch. It helps if something goes wrong.
+
+The patch will now be applied to the game to reduce crashes.
+
+"Hey, I tried the patch and now my EM4 won't start / keeps crashing" or something.
+No worries, the EM4 Memory Patcher has a built-in repair function.
+
+Step 1: Repair!
+Click on "EM4P.exe" again and start it.
+
+Step 2: Repair game exe
+Click on "Choose EXE", locate the "broken" Emergency 4 exe file. The patch will automatically check if a repair is wanted (Yes, this thing is that smart. You just have to select it).
+
+Step 3: Carry out the repair
+The program will probably ask you if you want to repair. Click "Yes".
+
+The repair will be applied to the patched exe. Sometimes you might have to do it 2 or 3 times. If it's still stuck after 3 tries, reach out to us.
