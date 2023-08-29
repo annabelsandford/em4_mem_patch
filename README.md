@@ -30,6 +30,7 @@ Be aware that the EM4 Mem Patcher automatically creates a backup of your Emergen
 - All versions of EM4 / 911:FR are 100% compatible. Thanks to all contributors!
 
 ## Troubleshooting
+- **Deluxe is missing**: Use the automatic repair function of the EM4 Mem Patcher to fix that.
 - **"XXXXX.dll is missing" error**: This error means that the game cannot access a Library needed to start the game. This usually means that your particular Version of EM4 is not supported. Do not open an issue, you are simply not compatible. I cannot help you.
 - **The game crashes**: Check both `em4.exe` and `Em4Deluxe.exe`, as both are modified by the tool. Try starting the game with both executables. If you do not have two executables, that's okay and to be expected as well depending on your setup. Start the game as administrator and enable Windows XP SP3 compatibility mode. If it still doesn't help, please [contact me here for more assistance](https://github.com/annabelsandford/). There is a chance your specific setup does not support the changes made to the executables.
 - **The EM4P.exe doesn't start**: You need the .NET Framework to run EM4 Mem Patcher. Please make sure that's installed.
