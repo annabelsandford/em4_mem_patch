@@ -1,17 +1,17 @@
 ![EM4 Memory Patcher Logo](https://raw.githubusercontent.com/annabelsandford/em4_mem_patch/main/em4p_trns.png)
-## Emergency 4 Memory Patcher: Enhance Stability and Gameplay Experience
+## Emergency 4 Memory Patcher
 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-orange.svg)](https://opensource.org/licenses/BSD-3-Clause) [![Platform](https://img.shields.io/badge/Platform-Windows-brightgreen.svg)](https://www.microsoft.com/en-us/windows) ![GitHub all releases](https://img.shields.io/github/downloads/annabelsandford/em4_mem_patch/total)
 
-The EM4 Memory Patcher is a powerful tool designed to address memory-related issues and crashes that players may encounter while playing Emergency 4. It goes beyond mere memory expansion, offering a comprehensive solution to enhance the stability and robustness of the game executable. By not only increasing memory capacity but also reworking and optimizing the game executable, this patcher provides players with a more reliable and enjoyable gaming experience.
+The EM4 Memory Patcher is a tool designed to address memory-related issues and crashes that players may encounter while playing Emergency 4. It goes beyond mere memory expansion, offering a solution to enhance the stability and robustness of the game executable. By not only increasing memory capacity but also reworking and optimizing the game executable, this patcher provides players with a more reliable and enjoyable gaming experience.
 
 ## Key Features
 
 - **Enhanced Memory Support**: The EM4 Memory Patcher significantly boosts the memory capacity of the Emergency 4 executable. This expansion enables the game to process larger volumes of data more efficiently, effectively reducing crashes attributed to memory limitations.
 
-- **Comprehensive Overhaul**: Beyond memory enhancements, the EM4 Memory Patcher undertakes a holistic approach to improve the game's performance. It restructures, adjusts, and optimizes the game executable to make it more robust and resilient, leading to fewer crashes and smoother gameplay.
+- **Overhaul**: Beyond memory enhancements, the EM4 Memory Patcher undertakes a holistic approach to improve the game's performance. It restructures, adjusts, and optimizes the game executable to make it more robust and resilient, leading to fewer crashes and smoother gameplay.
 
-- **Versatile Compatibility**: The EM4 Memory Patcher seamlessly integrates with various versions of Emergency 4, ensuring compatibility across different releases, whether obtained through Steam or the CD version. This guarantees a seamless experience, regardless of the game edition you're using.
+- **Versatile Compatibility**: The EM4 Memory Patcher integrates with various versions of Emergency 4, ensuring compatibility across different releases, whether obtained through Steam or the CD version. This guarantees a seamless experience, regardless of the game edition you're using.
 
 ## Usage / Guide
 For a comprehensive and detailed guide, click [here](https://raw.githubusercontent.com/annabelsandford/em4_mem_patch/main/guide-english.txt)!
